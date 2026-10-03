@@ -1,0 +1,6 @@
+{
+  "name": "OmiD half card Acca Bot",
+  "description": "Daily automated football accumulator bot delivering 100% sure 1.50 banker accas across multiple kickoff time slots from Paddy Power fixtures across all global leagues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
